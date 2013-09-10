@@ -1,0 +1,36 @@
+body {
+	background-attachment: fixed;
+	/*background-image: radial-gradient(50% 50%, #eee, #fefefe);*/
+	background-color: #efefef;
+
+	font-family: Source Sans Pro;
+
+	color: #444;
+
+	text-align: justify;
+}
+
+img {
+	max-width: 100%;
+}
+
+.image {
+	border-radius: 1em;
+	box-shadow: 0em .25em 1em rgba(50, 50, 50, .5);
+
+	margin-bottom: 1em;
+}
+
+header, main {
+	margin: auto;
+}
+
+header {
+	max-width: 80%;
+	margin-top: 3em;
+}
+
+main {
+	max-width: 70%;
+	padding-bottom: 25vh;
+}
