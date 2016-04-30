@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/hawkrives
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hawkrives.github.io
+  * I am hawkrives (https://keybase.io/hawkrives) on keybase.
+  * I have a public key with fingerprint 3796 3D9A 25A9 390E 0FCC  4499 02F6 870A FBB3 FAE6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01010ca46e9505d920b043a73985de219efc07f79da84e2b6d040633cb9b1b190ec10a",
+            "fingerprint": "37963d9a25a9390e0fcc449902f6870afbb3fae6",
+            "host": "keybase.io",
+            "key_id": "02f6870afbb3fae6",
+            "kid": "01010ca46e9505d920b043a73985de219efc07f79da84e2b6d040633cb9b1b190ec10a",
+            "uid": "cb063d95f290e7e82a7072739c64c100",
+            "username": "hawkrives"
+        },
+        "service": {
+            "hostname": "hawkrives.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1461982018,
+    "expire_in": 157680000,
+    "prev": "c0ab264af3e9dbb20d868ef5891454325caa7bdecf0791e009e81ca1aae2438a",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMNAAnicrZJrTBRXFMd3C8hDJGxpwWJC2wmUFTd457Hz2IIPwBYTcVttRRGy3pm5
+szuAu8vOLi8r0hhEeUqpihBLKyaI2QZto6Y1sWWhNvSBRYEg2qBtbRNtiBSMFR90
+Rtsv7dfe++Hmnvs7//s/J2dgUZAuQm9pPN7uWCqE6r/t6/TpchNjMnZgvEuswCw7
+sCL05EDFIlK8tiJZxCwYwNUtQIpGnBmYRY4APKBIyJAcaxYRgXNIEgAjMZwIWQoR
+PC0CCtAkKfAcj/M4B5CAA4iZMEl22pHH7ZGdXlWWZDiaFDlImCFHqhCQBIGiOA4Q
+Es0yAEo8T0oQ0Wqiw6VoGao5HiooVXapMfVie2rvv/z/7Nv3RE7ggebXLBHqC4NY
+AjKAIVQ1gaZUEGiggjxOuB2ptAOWFXnkUqRgO02YGi6VBaR1Vivl30iqXfY6fPzT
+utwel9cluIo1wOt1KxZNwFvh1jLKEG/7W8vGy05R7aeaUYo8iuxyYhZcJQWvrInj
+FI1zLAFw1oShcrfsQTZZI8wMzQJ1af+gUq0qAHmCpqBEIk7keQKILM0iycxyOGWm
+SMIsQMjwIhIkwHA4AoBDLC5AHEJEUCSrtUdBJU4XZuFUm9CuSiqy3Qm9Pg/Cdgb6
+8oN1+gjdgpBntDnTRYRH/zN9a43RukvTXw4sHz8dco689OzHUzBeSY9NF/zd7+ak
+/HrRniXePebfba5/0Y9fM6RXdn1zfdmNVa1R/pshtXjfKyPzI403xhrYD4PXMKua
+ji69Nfvpyfq29S3ZpmaTq3JD3WxQ5ux+09eByd7wr5L3RowqWQk/bvwiPXtu+ZuZ
+LXsOZfpbplIW68jOPVlTG3J3rcyLHNG1bXo+cDb85ReSCuIS6mOjlQcZhsL6JOOd
+n0ur8wLdhw1D4xO2+1WNjtm0P1uvdaz+vqQkdizUHzLx2u22wZomtKQDbOuIL4cS
+alh87J3OzYOjC+NzCreG3dnbk61f7zvTa8iRTx4dn8HGms+eLjhy6nyDvuG3q11d
+VwrJz8fKP7BMzQc+Cgte8sbBUTkwHPk6XnDu1v33LiZWRvj6h4ZeulzdvXq6MC17
++khqbR3WWtV0PSVql/6zRWJKDOq/8Ah7ZLUe2neiquSMYV9ydOT5qrXGt35ak/u4
+v7kpr2zzfjQy7Oi9nbhSNOvS4orKNwWGK7ztMzkhiMpO/p1yb/HMLVhx/GrlXdP7
+xoP2icMDVJTjYY8jCc6/2vj48okV1tr4h78w+Ixjyycpk3H5QRn36vIb+a01oUKP
+vaBjm3EywWrtKa7+4wA9/V1rMWXNffumzeE4NVdWc2XZuLGuE/dxY3Bkd1iCft29
+hQ82Rj53YfsPMYb2wb8A/jK2sA==
+=BVbj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hawkrives
+
+==================================================================
